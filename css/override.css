@@ -1,0 +1,74 @@
+.jumbotron {
+	color: #FFFFFF;
+	background-color: #D16349;
+	margin-top: 10px;
+}
+
+#vision {
+	color: #FFFFFF;
+	background-color: #8CADAE;
+	height: 315px;
+	border-radius: 6px;
+}
+
+#goals {
+	color: #FFFFFF;
+	background-color: #CCB400;
+	height: 315px;
+	border-radius: 6px;
+}
+
+#spacing {
+	margin-top: 10px;
+}
+
+#quote {
+	color: #8C7B70;
+	border-right: 5px solid #8CADAE;
+}
+
+#citation {
+	color: #8C7B70;
+}
+
+.btn-lg {
+	background-color: #D19049;
+	border-color: #FFFFFF;
+}
+
+#resources {
+	color: #8C7B70;
+}
+
+.small {
+	color: #928E7E;
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #ffffff;
+  background-color: #8CADAE;
+  border-color: #8CADAE;
+}
+
+.btn-primary:hover {
+  color: #ffffff;
+  background-color: #8CADAE;
+  border-color: #8CADAE;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: #8CADAE;
+  border-color: #8CADAE;
+}
+
+.lead {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FEFBF7;
+	
+}
+
+
